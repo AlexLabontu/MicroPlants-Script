@@ -1,5 +1,4 @@
-    
-	
+# Microplant Script Documentation
 The objective of the Micro-plant scripts is to allow bulk possessing of the data and extraction of key data points from data dumps. The user feeds in CSV data taken from the terminal within the museum and then generates a new CSV file containing fixes. The scripts utilize Powershell as the engine to process the data. The way Powershell works for easy importation of the CSV data structure and manipulation and creation of other data structures. The scripts also utilize GNU plot as the visual component of data checking. Here are the three required programs needed the utilize all aspects of the script:
 
 	* Powershell
